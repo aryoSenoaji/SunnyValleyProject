@@ -501,7 +501,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 7ab1d9ce243bb564d9ec01dbea57b31b, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.115
+  m_Volume: 0.21
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -701,7 +701,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <InventoryItem>k__BackingField: {fileID: 11400000, guid: 0fd6d77d45b81a746b59ac07b6681b34, type: 2}
   <Quantity>k__BackingField: 5
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 351925990}
   duration: 0.3
 --- !u!1 &352303497
 GameObject:
